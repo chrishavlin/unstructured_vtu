@@ -1,0 +1,9 @@
+{
+  "T": "K",
+  "p": "Pa",
+  "viscosity": "Pa*s",
+  "strain_rate": "1 / s",
+  "velocity": "m / s",
+  "time" : "s", 
+  "length" : "m" 
+}
